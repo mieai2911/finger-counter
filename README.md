@@ -60,4 +60,4 @@ Ngón cái được xử lý riêng `is_thumb_extended` vì nó di chuyển theo
 
 ![Demo video](./demo.mp4)
 
-a
+Tải video về để xem demo
